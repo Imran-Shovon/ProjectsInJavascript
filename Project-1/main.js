@@ -1,5 +1,4 @@
 const panel = document.querySelectorAll('.panel');
-console.log(panel);
 
 panel.forEach((panel) => {
     panel.addEventListener("click", () => {
